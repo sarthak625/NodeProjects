@@ -8,7 +8,7 @@ A web server which streams the data using piping. To run this type the following
 node BasicWebServer.js
 ```
 
-# QR Code App
+## QR Code App
 Uses the qr-image library to convert a website into a QR code.
 To run this type the following commands in your terminal
 
